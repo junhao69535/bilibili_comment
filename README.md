@@ -17,4 +17,5 @@
 然后刷新一下，找到名为add的，在里面找到Cookie，Cookie的内容就是所需要的。
 
 如图所示：
+
 ![image](https://github.com/junhao69535/bilibili_comment/blob/master/cookie.png)
