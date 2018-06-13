@@ -1,6 +1,6 @@
 # bilibili_comment
 
-该脚本能实现买房。
+该脚本能实现在b站买房。
 
 只需输入cookie(模拟登录）、up主的uid和评论即可。
 
@@ -16,4 +16,5 @@
 
 然后刷新一下，找到名为add的，在里面找到Cookie，Cookie的内容就是所需要的。
 
-如图所示： ![image](https://github.com/junhao69535/bilibili_comment/blob/master/cookie.png)
+如图所示：
+![image](https://github.com/junhao69535/bilibili_comment/blob/master/cookie.png)
