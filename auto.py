@@ -73,5 +73,5 @@ while True:
         auto_comment(str(info[0]),comment,cookie)
         break
     #每隔三分钟试一下
-    time.sleep(360)
+    time.sleep(180)
         
